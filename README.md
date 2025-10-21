@@ -72,6 +72,7 @@ If you use this project, please consider citing:
 
 ---
 
-## 🙏 Acknowledgements
+## 🧩 Example Result
 
-Thanks to the authors/maintainers of **PyTorch**, **SentenceTransformers**, **BERTopic**, **UMAP**, **HDBSCAN**, and **Transformers**.
+![Min Cluster Size Sensitivity](https://raw.githubusercontent.com/AryanGol/min-cluster-items-sensitivity/main/gpt2.png)
+
