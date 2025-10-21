@@ -61,7 +61,37 @@ All outputs are written to `FOLDER/results/`.
 
 ## 📂 Example output tree
 
-results/ cleaned.csv top10_words_per_title_abstract.xlsx titles_abstracts_before.csv titles_abstracts_after.csv word_counts_before_after.xlsx token_counts_title_abstract_clean.xlsx embeddings_title_abstract_clean_max512.npy embeddings_title_abstract_clean_max512.xlsx embeddings_heatmap_docs_x_768.png umap_5d.csv umap_5d_heatmap.png umap_2d.csv umap_2d_scatter.png evaluation_summary_by_min_cluster_size.csv pairwise_adjacent_ARI_VI.csv consensus_PAC_per_cs.csv mincs_005/ topic_info.csv doc_assignments.csv titles_by_topic.txt documents.html barchart.html heatmap.html hierarchy.html datamap.html (optional) datamap_numeric.html (optional) diffs_after_keybert.csv bertopic_model/ mincs_010/ ...
+results/
+├── cleaned.csv
+├── top10_words_per_title_abstract.xlsx
+├── titles_abstracts_before.csv
+├── titles_abstracts_after.csv
+├── word_counts_before_after.xlsx
+├── token_counts_title_abstract_clean.xlsx
+├── embeddings_title_abstract_clean_max512.npy
+├── embeddings_title_abstract_clean_max512.xlsx
+├── embeddings_heatmap_docs_x_768.png
+├── umap_5d.csv
+├── umap_5d_heatmap.png
+├── umap_2d.csv
+├── umap_2d_scatter.png
+├── evaluation_summary_by_min_cluster_size.csv
+├── pairwise_adjacent_ARI_VI.csv
+├── consensus_PAC_per_cs.csv
+├── mincs_005/
+│ ├── topic_info.csv
+│ ├── doc_assignments.csv
+│ ├── titles_by_topic.txt
+│ ├── documents.html
+│ ├── barchart.html
+│ ├── heatmap.html
+│ ├── hierarchy.html
+│ ├── datamap.html (optional)
+│ ├── datamap_numeric.html (optional)
+│ ├── diffs_after_keybert.csv
+│ └── bertopic_model/
+└── mincs_010/
+└── ...
 
 ---
 
