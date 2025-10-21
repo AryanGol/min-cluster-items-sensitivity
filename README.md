@@ -1,6 +1,6 @@
 # Text Clustering & Topic Modeling (BERTopic + UMAP + HDBSCAN)
 
-*A fast, end-to-end pipeline for clustering research articles and modeling topics from a CSV of titles & abstracts. Optimized for Intel Arc GPUs (XPU), with CPU fallback.*
+A fast, end-to-end pipeline for clustering research articles and modeling topics from a CSV of titles & abstracts. Optimized for Intel Arc GPUs (XPU), with CPU fallback.
 
 > **Author:** Aryan Golzaryan — aryan.golzaryan@gmail.com
 
