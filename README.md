@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ What this project does
+##  What this project does
 
 - Cleans your **Title** and **Abstract** text and exports “before/after” views  
 - Computes **top words per document**, word/token **count diagnostics**, and **768-dim embeddings** (`all-mpnet-base-v2`)  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧾 Input
+##  Input
 
 A CSV with at least these columns (case-insensitive):
 
@@ -35,7 +35,7 @@ All outputs are written to `FOLDER/results/`.
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 1. (Optional) Intel Arc GPU (XPU)
    - Install Intel oneAPI drivers/runtime.
@@ -59,7 +59,7 @@ All outputs are written to `FOLDER/results/`.
 
 ---
 
-## 📜 Citation
+##  Citation
 
 If you use this project, please consider citing:
 
@@ -69,10 +69,6 @@ If you use this project, please consider citing:
 - Campello, R. J. G. B. et al. **HDBSCAN** — https://doi.org/10.1007/s10115-013-0673-8
 
 ---
-
-## 📄 License
-
-MIT License © 2025 Aryan Golzaryan
 
 ---
 
